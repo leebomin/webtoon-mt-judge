@@ -1,0 +1,827 @@
+{
+ "balloon_dream-033-0": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "적당한 크기, 줄 균형"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "단어 중간 끊김",
+    "테두리에 붙음/답답함"
+   ],
+   "reason": "우주까지가 끊기고 글자가 커서 답답"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "글자 작음",
+    "치우침/빈 공간"
+   ],
+   "reason": "글자가 작고 빈 공간 많음"
+  }
+ },
+ "balloon_dream-033-1": {
+  "A": {
+   "score": 5,
+   "tags": [],
+   "reason": "깔끔"
+  },
+  "B": {
+   "score": 5,
+   "tags": [],
+   "reason": "A와 동일"
+  },
+  "C": {
+   "score": 5,
+   "tags": [],
+   "reason": "A와 동일"
+  }
+ },
+ "balloon_dream-033-2": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난하나 약간 작음"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자가 작음"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "크기 적당"
+  }
+ },
+ "balloon_dream-033-3": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "자연스러운 줄 나눔"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "테두리에 붙음/답답함"
+   ],
+   "reason": "단어 끊김, 큰 글자가 답답"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "balloon_dream-033-4": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "건 한 글자만 남음"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "그/런 단어 끊김"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "건 한 글자만 남고 좁음"
+  }
+ },
+ "balloon_dream-033-5": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "걸 홀로 남아 어색"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "걸 홀로 남아 어색"
+  },
+  "C": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "확인/해 단어 끊김"
+  }
+ },
+ "boureisougi-030-0": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "boureisougi-030-1": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "아름다/워 단어 끊김"
+  }
+ },
+ "boureisougi-030-2": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "줄 나눔 무난"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "그렇/게 단어 끊김"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "치우침/빈 공간",
+    "줄 나눔 어색"
+   ],
+   "reason": "삐져가 말풍선 밖으로 나옴"
+  }
+ },
+ "boureisougi-030-3": {
+  "A": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "곁에/도 단어 끊김"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "씨 홀로 한 줄"
+  },
+  "C": {
+   "score": 5,
+   "tags": [],
+   "reason": "줄 나눔 자연스러움"
+  }
+ },
+ "boureisougi-030-4": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자 작음"
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "테두리에 붙음/답답함"
+   ],
+   "reason": "크지만 약간 답답"
+  },
+  "C": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "당연/하지 단어 끊김"
+  }
+ },
+ "boureisougi-030-5": {
+  "A": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "테두리에 붙음/답답함"
+   ],
+   "reason": "스즈메한/테는 단어 끊김"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자 작음"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "rasetugari-007-0": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "rasetugari-007-1": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "읽기 편함"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자 작음"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "읽기 편함"
+  }
+ },
+ "rasetugari-007-2": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자 작음"
+  }
+ },
+ "rasetugari-007-3": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "읽기 편함"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자 작음"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "읽기 편함"
+  }
+ },
+ "rasetugari-007-4": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자 작음"
+  }
+ },
+ "tencho_isoro-031-0": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "할/수 줄 나눔 어색"
+  },
+  "B": {
+   "score": 5,
+   "tags": [],
+   "reason": "자연스러운 줄 나눔"
+  },
+  "C": {
+   "score": 5,
+   "tags": [],
+   "reason": "B와 동일"
+  }
+ },
+ "tencho_isoro-031-1": {
+  "A": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "그래그/래 단어 끊김"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "단어 끊김과 어색한 줄"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난하나 약간 작음"
+  }
+ },
+ "tencho_isoro-031-2": {
+  "A": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "먹겠/습니다 단어 끊김"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 4,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "약간 작음"
+  }
+ },
+ "tencho_isoro-031-3": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "tencho_isoro-031-4": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "tencho_isoro-031-5": {
+  "A": {
+   "score": 5,
+   "tags": [],
+   "reason": "자연스러운 줄 나눔"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "4줄로 좁고 길쭉함"
+  },
+  "C": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "씹는 맛/도 단어 끊김"
+  }
+ },
+ "tojime_no_siora-029-0": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "몰/살한 단어 끊김"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "좁고 줄이 많음"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "균형 좋음"
+  }
+ },
+ "tojime_no_siora-029-1": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "마지막 줄이 넓어 답답"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자 작음"
+  },
+  "C": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "힘/을 단어 끊김"
+  }
+ },
+ "tojime_no_siora-029-2": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "자연스러움"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "지/지고 단어 끊김"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "줄 나눔 불균등"
+  }
+ },
+ "tojime_no_siora-029-3": {
+  "A": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "불/쌍한 단어 끊김"
+  },
+  "B": {
+   "score": 3,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "글자 작음"
+  },
+  "C": {
+   "score": 5,
+   "tags": [],
+   "reason": "크기와 줄 나눔 좋음"
+  }
+ },
+ "tojime_no_siora-029-4": {
+  "A": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "망/령처럼 단어 끊김"
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "약간 작음"
+  },
+  "C": {
+   "score": 4,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "쏘고 줄 나눔 약간 아쉬움"
+  }
+ },
+ "tojime_no_siora-029-5": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "글자 작음",
+    "줄 나눔 어색"
+   ],
+   "reason": "이 한 글자만 윗줄, 작음"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "이란 말/이야 단어 끊김"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "글자 작음",
+    "줄 나눔 어색"
+   ],
+   "reason": "이 한 글자만 윗줄"
+  }
+ },
+ "balloon_dream-025-0": {
+  "A": {
+   "score": 4,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "약간 작음"
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "약간 작음"
+  },
+  "C": {
+   "score": 4,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "약간 작음"
+  }
+ },
+ "balloon_dream-025-1": {
+  "A": {
+   "score": 5,
+   "tags": [],
+   "reason": "자연스러움"
+  },
+  "B": {
+   "score": 5,
+   "tags": [],
+   "reason": "A와 동일"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "한 줄 단어씩 길쭉함"
+  }
+ },
+ "balloon_dream-025-2": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "좀 홀로 남아 어색"
+  },
+  "B": {
+   "score": 5,
+   "tags": [],
+   "reason": "자연스러운 줄 나눔"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "좀 홀로 남아 어색"
+  }
+ },
+ "balloon_dream-025-3": {
+  "A": {
+   "score": 4,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "작음"
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "작음"
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "하여/간 단어 끊김"
+  }
+ },
+ "balloon_dream-025-4": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "줄 나눔 어색"
+   ],
+   "reason": "낙하 줄 나눔 불균등"
+  },
+  "B": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "C": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "낙/하 단어 끊김"
+  }
+ },
+ "boureisougi-033-0": {
+  "A": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "서가 홀로 끊김"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "돼/서 단어 끊김"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "boureisougi-033-1": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "맡/아두고 단어 끊김"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "boureisougi-033-2": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김",
+    "줄 나눔 어색"
+   ],
+   "reason": "사고/가 단어 끊김"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "boureisougi-033-3": {
+  "A": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "단어 중간 끊김"
+   ],
+   "reason": "기적적/으로 단어 끊김"
+  },
+  "C": {
+   "score": 4,
+   "tags": [],
+   "reason": "무난"
+  }
+ },
+ "boureisougi-033-4": {
+  "A": {
+   "score": 5,
+   "tags": [],
+   "reason": "깔끔"
+  },
+  "B": {
+   "score": 5,
+   "tags": [],
+   "reason": "동일"
+  },
+  "C": {
+   "score": 5,
+   "tags": [],
+   "reason": "동일"
+  }
+ },
+ "boureisougi-033-5": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "단어 중간 끊김",
+    "테두리에 붙음/답답함"
+   ],
+   "reason": "언니분/이 끊김, 답답"
+  },
+  "B": {
+   "score": 5,
+   "tags": [],
+   "reason": "자연스러움"
+  },
+  "C": {
+   "score": 4,
+   "tags": [
+    "글자 작음"
+   ],
+   "reason": "약간 작음"
+  }
+ }
+}

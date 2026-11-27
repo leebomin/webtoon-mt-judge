@@ -1,0 +1,1523 @@
+{
+ "balloon_dream-033-0": {
+  "T1": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 20.0,
+   "text": [
+    "정말 우주",
+    "까지 올라",
+    "갔을까요?"
+   ]
+  },
+  "T2": {
+   "font_px": 19,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.0,
+   "text": [
+    "정말 우주까지",
+    "올라갔을까요?"
+   ]
+  },
+  "T3": {
+   "font_px": 22,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "정말 우주까지",
+    "올라갔을까요?"
+   ]
+  }
+ },
+ "balloon_dream-033-1": {
+  "T1": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.7,
+   "text": [
+    "뭐,",
+    "뭐야"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.7,
+   "text": [
+    "뭐,",
+    "뭐야"
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.7,
+   "text": [
+    "뭐,",
+    "뭐야"
+   ]
+  }
+ },
+ "balloon_dream-033-2": {
+  "T1": {
+   "font_px": 23,
+   "lines": 3,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 5.0,
+   "text": [
+    "의심",
+    "하는",
+    "거냐?"
+   ]
+  },
+  "T2": {
+   "font_px": 16,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.4,
+   "text": [
+    "의심하는",
+    "거냐?"
+   ]
+  },
+  "T3": {
+   "font_px": 16,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "의심하는",
+    "거냐?"
+   ]
+  }
+ },
+ "balloon_dream-033-3": {
+  "T1": {
+   "font_px": 24,
+   "lines": 4,
+   "midword_breaks": 3,
+   "overflow": false,
+   "margin_px": 11.0,
+   "text": [
+    "아, 아",
+    "뇨! 그",
+    "런 건 아",
+    "니고..."
+   ]
+  },
+  "T2": {
+   "font_px": 20,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 13.0,
+   "text": [
+    "아, 아뇨!",
+    "그런 건",
+    "아니고..."
+   ]
+  },
+  "T3": {
+   "font_px": 20,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "아, 아뇨!",
+    "그런 건",
+    "아니고..."
+   ]
+  }
+ },
+ "balloon_dream-033-4": {
+  "T1": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 12.0,
+   "text": [
+    "뭐, 그",
+    "런 건"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 18.0,
+   "text": [
+    "뭐,",
+    "그런",
+    "건"
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 18.0,
+   "text": [
+    "뭐,",
+    "그런",
+    "건"
+   ]
+  }
+ },
+ "balloon_dream-033-5": {
+  "T1": {
+   "font_px": 23,
+   "lines": 5,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 11.0,
+   "text": [
+    "안에 든",
+    "걸 확인",
+    "해 보면",
+    "알 수",
+    "있지"
+   ]
+  },
+  "T2": {
+   "font_px": 23,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 9.0,
+   "text": [
+    "안에 든",
+    "걸",
+    "확인해",
+    "보면 알",
+    "수 있지"
+   ]
+  },
+  "T3": {
+   "font_px": 23,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 8.0,
+   "text": [
+    "안에 든",
+    "걸",
+    "확인해",
+    "보면 알",
+    "수 있지"
+   ]
+  }
+ },
+ "boureisougi-030-0": {
+  "T1": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 5.4,
+   "text": [
+    "아름",
+    "다웠",
+    "네요"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 5.4,
+   "text": [
+    "아름",
+    "다웠",
+    "네요"
+   ]
+  },
+  "T3": {
+   "font_px": 24,
+   "lines": 3,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 9.5,
+   "text": [
+    "아름",
+    "다웠",
+    "네요"
+   ]
+  }
+ },
+ "boureisougi-030-1": {
+  "T1": {
+   "font_px": 24,
+   "lines": 4,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 7.0,
+   "text": [
+    "......난",
+    "언제나",
+    "아름다",
+    "워"
+   ]
+  },
+  "T2": {
+   "font_px": 19,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 8.5,
+   "text": [
+    "......난",
+    "언제나",
+    "아름다워"
+   ]
+  },
+  "T3": {
+   "font_px": 19,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 12.1,
+   "text": [
+    "......난",
+    "언제나",
+    "아름다워"
+   ]
+  }
+ },
+ "boureisougi-030-2": {
+  "T1": {
+   "font_px": 18,
+   "lines": 3,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 11.0,
+   "text": [
+    "뭘 그렇",
+    "게 삐져",
+    "있어요?"
+   ]
+  },
+  "T2": {
+   "font_px": 18,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 8.9,
+   "text": [
+    "뭘",
+    "그렇게",
+    "삐져",
+    "있어요?"
+   ]
+  },
+  "T3": {
+   "font_px": 17,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 9.8,
+   "text": [
+    "뭘 그렇게",
+    "삐져 있어요?"
+   ]
+  }
+ },
+ "boureisougi-030-3": {
+  "T1": {
+   "font_px": 26,
+   "lines": 4,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 7.0,
+   "text": [
+    "스즈메",
+    "씨 곁에",
+    "도 없었",
+    "고요"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 7.0,
+   "text": [
+    "스즈메",
+    "씨",
+    "곁에도",
+    "없었고요"
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.0,
+   "text": [
+    "스즈메 씨",
+    "곁에도",
+    "없었고요"
+   ]
+  }
+ },
+ "boureisougi-030-4": {
+  "T1": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 14.0,
+   "text": [
+    "당연",
+    "하지!"
+   ]
+  },
+  "T2": {
+   "font_px": 17,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 8.0,
+   "text": [
+    "당연하지!"
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 8.5,
+   "text": [
+    "당연하지!"
+   ]
+  }
+ },
+ "boureisougi-030-5": {
+  "T1": {
+   "font_px": 24,
+   "lines": 6,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 9.2,
+   "text": [
+    "스즈메한",
+    "테는 그",
+    "런 얼굴",
+    "보이기",
+    "싫었단",
+    "말이야!"
+   ]
+  },
+  "T2": {
+   "font_px": 16,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 5.0,
+   "text": [
+    "스즈메한테는",
+    "그런 얼굴",
+    "보이기 싫었단",
+    "말이야!"
+   ]
+  },
+  "T3": {
+   "font_px": 16,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 9.0,
+   "text": [
+    "스즈메한테는",
+    "그런 얼굴",
+    "보이기",
+    "싫었단",
+    "말이야!"
+   ]
+  }
+ },
+ "rasetugari-007-0": {
+  "T1": {
+   "font_px": 23,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "형..."
+   ]
+  },
+  "T2": {
+   "font_px": 23,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "형..."
+   ]
+  },
+  "T3": {
+   "font_px": 19,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 14.0,
+   "text": [
+    "형..."
+   ]
+  }
+ },
+ "rasetugari-007-1": {
+  "T1": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 7.0,
+   "text": [
+    "님..."
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 7.0,
+   "text": [
+    "님..."
+   ]
+  },
+  "T3": {
+   "font_px": 22,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 12.0,
+   "text": [
+    "님..."
+   ]
+  }
+ },
+ "rasetugari-007-2": {
+  "T1": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 8.0,
+   "text": [
+    "그만",
+    "둬..."
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 8.0,
+   "text": [
+    "그만",
+    "둬..."
+   ]
+  },
+  "T3": {
+   "font_px": 22,
+   "lines": 2,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 11.0,
+   "text": [
+    "그만",
+    "둬..."
+   ]
+  }
+ },
+ "rasetugari-007-3": {
+  "T1": {
+   "font_px": 21,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 6.0,
+   "text": [
+    "제발",
+    "그만해",
+    "줘..."
+   ]
+  },
+  "T2": {
+   "font_px": 21,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 6.0,
+   "text": [
+    "제발",
+    "그만해",
+    "줘..."
+   ]
+  },
+  "T3": {
+   "font_px": 18,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "제발",
+    "그만해",
+    "줘..."
+   ]
+  }
+ },
+ "rasetugari-007-4": {
+  "T1": {
+   "font_px": 17,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 6.0,
+   "text": [
+    "아..."
+   ]
+  },
+  "T2": {
+   "font_px": 17,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 6.0,
+   "text": [
+    "아..."
+   ]
+  },
+  "T3": {
+   "font_px": 16,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 9.0,
+   "text": [
+    "아..."
+   ]
+  }
+ },
+ "tencho_isoro-031-0": {
+  "T1": {
+   "font_px": 23,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 9.1,
+   "text": [
+    "...할 수",
+    "있을 것",
+    "같아..."
+   ]
+  },
+  "T2": {
+   "font_px": 23,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 9.1,
+   "text": [
+    "...할 수",
+    "있을 것",
+    "같아..."
+   ]
+  },
+  "T3": {
+   "font_px": 23,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.4,
+   "text": [
+    "...할",
+    "수",
+    "있을 것",
+    "같아..."
+   ]
+  }
+ },
+ "tencho_isoro-031-1": {
+  "T1": {
+   "font_px": 18,
+   "lines": 4,
+   "midword_breaks": 3,
+   "overflow": false,
+   "margin_px": 8.0,
+   "text": [
+    "그래그",
+    "래, 그",
+    "렇게 하",
+    "는 거야"
+   ]
+  },
+  "T2": {
+   "font_px": 17,
+   "lines": 5,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 7.0,
+   "text": [
+    "그래그",
+    "래,",
+    "그렇게",
+    "하는",
+    "거야"
+   ]
+  },
+  "T3": {
+   "font_px": 15,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 8.0,
+   "text": [
+    "그래그래,",
+    "그렇게",
+    "하는 거야"
+   ]
+  }
+ },
+ "tencho_isoro-031-2": {
+  "T1": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 21.0,
+   "text": [
+    "잘 먹겠",
+    "습니다"
+   ]
+  },
+  "T2": {
+   "font_px": 19,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.0,
+   "text": [
+    "잘",
+    "먹겠습니다"
+   ]
+  },
+  "T3": {
+   "font_px": 21,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.2,
+   "text": [
+    "잘",
+    "먹겠습니다"
+   ]
+  }
+ },
+ "tencho_isoro-031-3": {
+  "T1": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 22.0,
+   "text": [
+    "...."
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 22.0,
+   "text": [
+    "...."
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 23.0,
+   "text": [
+    "...."
+   ]
+  }
+ },
+ "tencho_isoro-031-4": {
+  "T1": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.3,
+   "text": [
+    "채소",
+    "크다"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.3,
+   "text": [
+    "채소",
+    "크다"
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 16.8,
+   "text": [
+    "채소",
+    "크다"
+   ]
+  }
+ },
+ "tencho_isoro-031-5": {
+  "T1": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 12.6,
+   "text": [
+    "씹는 맛",
+    "도 있고",
+    "맛있지?"
+   ]
+  },
+  "T2": {
+   "font_px": 23,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 13.0,
+   "text": [
+    "씹는",
+    "맛도",
+    "있고",
+    "맛있지?"
+   ]
+  },
+  "T3": {
+   "font_px": 24,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.0,
+   "text": [
+    "씹는",
+    "맛도 있고",
+    "맛있지?"
+   ]
+  }
+ },
+ "tojime_no_siora-029-0": {
+  "T1": {
+   "font_px": 23,
+   "lines": 5,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 12.5,
+   "text": [
+    "복수를 위해",
+    "어느 마을의",
+    "마피아를 몰",
+    "살한 총잡이",
+    "가 있었지..."
+   ]
+  },
+  "T2": {
+   "font_px": 23,
+   "lines": 6,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 9.2,
+   "text": [
+    "복수를 위해",
+    "어느 마을의",
+    "마피아를",
+    "몰살한",
+    "총잡이가",
+    "있었지..."
+   ]
+  },
+  "T3": {
+   "font_px": 23,
+   "lines": 7,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.3,
+   "text": [
+    "복수를",
+    "위해 어느",
+    "마을의",
+    "마피아를",
+    "몰살한",
+    "총잡이가",
+    "있었지..."
+   ]
+  }
+ },
+ "tojime_no_siora-029-1": {
+  "T1": {
+   "font_px": 22,
+   "lines": 4,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 8.5,
+   "text": [
+    "그놈의 힘",
+    "을 두려워",
+    "한 마을",
+    "놈들은"
+   ]
+  },
+  "T2": {
+   "font_px": 20,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.6,
+   "text": [
+    "그놈의",
+    "힘을",
+    "두려워한",
+    "마을",
+    "놈들은"
+   ]
+  },
+  "T3": {
+   "font_px": 23,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.0,
+   "text": [
+    "그놈의",
+    "힘을",
+    "두려워한",
+    "마을 놈들은"
+   ]
+  }
+ },
+ "tojime_no_siora-029-2": {
+  "T1": {
+   "font_px": 24,
+   "lines": 6,
+   "midword_breaks": 4,
+   "overflow": false,
+   "margin_px": 6.0,
+   "text": [
+    "눈을 지지",
+    "고 눈꺼풀",
+    "을 꿰매서",
+    "그놈을 마",
+    "을에서 쫓",
+    "아냈다"
+   ]
+  },
+  "T2": {
+   "font_px": 21,
+   "lines": 6,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 6.3,
+   "text": [
+    "눈을 지지고",
+    "눈꺼풀을",
+    "꿰매서",
+    "그놈을",
+    "마을에서",
+    "쫓아냈다"
+   ]
+  },
+  "T3": {
+   "font_px": 21,
+   "lines": 6,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "눈을",
+    "지지고",
+    "눈꺼풀을",
+    "꿰매서 그놈을",
+    "마을에서",
+    "쫓아냈다"
+   ]
+  }
+ },
+ "tojime_no_siora-029-3": {
+  "T1": {
+   "font_px": 26,
+   "lines": 4,
+   "midword_breaks": 3,
+   "overflow": false,
+   "margin_px": 10.8,
+   "text": [
+    "그 불",
+    "쌍한",
+    "총잡이",
+    "는..."
+   ]
+  },
+  "T2": {
+   "font_px": 15,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.0,
+   "text": [
+    "그 불쌍한",
+    "총잡이는..."
+   ]
+  },
+  "T3": {
+   "font_px": 18,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 7.0,
+   "text": [
+    "그 불쌍한",
+    "총잡이는..."
+   ]
+  }
+ },
+ "tojime_no_siora-029-4": {
+  "T1": {
+   "font_px": 26,
+   "lines": 5,
+   "midword_breaks": 4,
+   "overflow": false,
+   "margin_px": 12.6,
+   "text": [
+    "지금도 망",
+    "령처럼 악",
+    "당들을 쏘",
+    "고 다닌다",
+    "던데..."
+   ]
+  },
+  "T2": {
+   "font_px": 20,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 14.3,
+   "text": [
+    "지금도",
+    "망령처럼",
+    "악당들을",
+    "쏘고",
+    "다닌다던데..."
+   ]
+  },
+  "T3": {
+   "font_px": 21,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 14.9,
+   "text": [
+    "지금도",
+    "망령처럼",
+    "악당들을 쏘고",
+    "다닌다던데..."
+   ]
+  }
+ },
+ "tojime_no_siora-029-5": {
+  "T1": {
+   "font_px": 21,
+   "lines": 3,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 16.3,
+   "text": [
+    "이 녀석",
+    "이란 말",
+    "이야...?"
+   ]
+  },
+  "T2": {
+   "font_px": 16,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 17.0,
+   "text": [
+    "이",
+    "녀석이란",
+    "말이야...?"
+   ]
+  },
+  "T3": {
+   "font_px": 19,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "이",
+    "녀석이란",
+    "말이야...?"
+   ]
+  }
+ },
+ "balloon_dream-025-0": {
+  "T1": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 43.7,
+   "text": [
+    "하아!?"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 43.7,
+   "text": [
+    "하아!?"
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 43.0,
+   "text": [
+    "하아!?"
+   ]
+  }
+ },
+ "balloon_dream-025-1": {
+  "T1": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 6.0,
+   "text": [
+    "여행 갔다",
+    "와서 쉬고",
+    "싶다아!?"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 6.0,
+   "text": [
+    "여행 갔다",
+    "와서 쉬고",
+    "싶다아!?"
+   ]
+  },
+  "T3": {
+   "font_px": 25,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.0,
+   "text": [
+    "여행",
+    "갔다",
+    "와서",
+    "쉬고",
+    "싶다아!?"
+   ]
+  }
+ },
+ "balloon_dream-025-2": {
+  "T1": {
+   "font_px": 23,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 14.0,
+   "text": [
+    "고문이면",
+    "차 정도는",
+    "좀 내라고!!"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.0,
+   "text": [
+    "고문이면",
+    "차 정도는",
+    "좀",
+    "내라고!!"
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 20.2,
+   "text": [
+    "고문이면",
+    "차 정도는",
+    "좀",
+    "내라고!!"
+   ]
+  }
+ },
+ "balloon_dream-025-3": {
+  "T1": {
+   "font_px": 26,
+   "lines": 2,
+   "midword_breaks": 1,
+   "overflow": false,
+   "margin_px": 9.0,
+   "text": [
+    "하여",
+    "간"
+   ]
+  },
+  "T2": {
+   "font_px": 19,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 5.0,
+   "text": [
+    "하여간"
+   ]
+  },
+  "T3": {
+   "font_px": 16,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "하여간"
+   ]
+  }
+ },
+ "balloon_dream-025-4": {
+  "T1": {
+   "font_px": 23,
+   "lines": 5,
+   "midword_breaks": 3,
+   "overflow": false,
+   "margin_px": 8.1,
+   "text": [
+    "일단 낙",
+    "하 지점",
+    "까지 갈",
+    "발은 확",
+    "보, 라"
+   ]
+  },
+  "T2": {
+   "font_px": 19,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "일단",
+    "낙하",
+    "지점까지",
+    "갈 발은",
+    "확보, 라"
+   ]
+  },
+  "T3": {
+   "font_px": 22,
+   "lines": 4,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 7.0,
+   "text": [
+    "일단 낙하",
+    "지점까지",
+    "갈 발은",
+    "확보, 라"
+   ]
+  }
+ },
+ "boureisougi-033-0": {
+  "T1": {
+   "font_px": 17,
+   "lines": 3,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 7.2,
+   "text": [
+    "차 밖에",
+    "서 발견",
+    "돼서"
+   ]
+  },
+  "T2": {
+   "font_px": 16,
+   "lines": 4,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 10.2,
+   "text": [
+    "차",
+    "밖에서",
+    "발견돼",
+    "서"
+   ]
+  },
+  "T3": {
+   "font_px": 15,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 12.6,
+   "text": [
+    "차",
+    "밖에서",
+    "발견돼서"
+   ]
+  }
+ },
+ "boureisougi-033-1": {
+  "T1": {
+   "font_px": 20,
+   "lines": 5,
+   "midword_breaks": 2,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "언니분의",
+    "유품으로",
+    "저희가 맡",
+    "아두고 있",
+    "었습니다"
+   ]
+  },
+  "T2": {
+   "font_px": 17,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 12.5,
+   "text": [
+    "언니분의",
+    "유품으로",
+    "저희가",
+    "맡아두고",
+    "있었습니다"
+   ]
+  },
+  "T3": {
+   "font_px": 18,
+   "lines": 5,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.2,
+   "text": [
+    "언니분의",
+    "유품으로",
+    "저희가",
+    "맡아두고",
+    "있었습니다"
+   ]
+  }
+ },
+ "boureisougi-033-2": {
+  "T1": {
+   "font_px": 23,
+   "lines": 4,
+   "midword_breaks": 3,
+   "overflow": false,
+   "margin_px": 11.3,
+   "text": [
+    "사고",
+    "가 났",
+    "는데",
+    "도"
+   ]
+  },
+  "T2": {
+   "font_px": 15,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 15.8,
+   "text": [
+    "사고가",
+    "났는데도"
+   ]
+  },
+  "T3": {
+   "font_px": 18,
+   "lines": 2,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.2,
+   "text": [
+    "사고가",
+    "났는데도"
+   ]
+  }
+ },
+ "boureisougi-033-3": {
+  "T1": {
+   "font_px": 20,
+   "lines": 4,
+   "midword_breaks": 3,
+   "overflow": false,
+   "margin_px": 6.0,
+   "text": [
+    "이것만은",
+    "기적적으",
+    "로 멀쩡",
+    "했어요"
+   ]
+  },
+  "T2": {
+   "font_px": 16,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 9.5,
+   "text": [
+    "이것만은",
+    "기적적으로",
+    "멀쩡했어요"
+   ]
+  },
+  "T3": {
+   "font_px": 16,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 12.6,
+   "text": [
+    "이것만은",
+    "기적적으로",
+    "멀쩡했어요"
+   ]
+  }
+ },
+ "boureisougi-033-4": {
+  "T1": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "분명"
+   ]
+  },
+  "T2": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "분명"
+   ]
+  },
+  "T3": {
+   "font_px": 26,
+   "lines": 1,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 11.0,
+   "text": [
+    "분명"
+   ]
+  }
+ },
+ "boureisougi-033-5": {
+  "T1": {
+   "font_px": 26,
+   "lines": 4,
+   "midword_breaks": 3,
+   "overflow": false,
+   "margin_px": 10.4,
+   "text": [
+    "언니분",
+    "이 지켜",
+    "주셨던",
+    "거겠죠"
+   ]
+  },
+  "T2": {
+   "font_px": 19,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 20.2,
+   "text": [
+    "언니분이",
+    "지켜주셨던",
+    "거겠죠"
+   ]
+  },
+  "T3": {
+   "font_px": 23,
+   "lines": 3,
+   "midword_breaks": 0,
+   "overflow": false,
+   "margin_px": 10.0,
+   "text": [
+    "언니분이",
+    "지켜주셨던",
+    "거겠죠"
+   ]
+  }
+ }
+}

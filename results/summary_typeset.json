@@ -1,0 +1,157 @@
+{
+ "n_bubbles": 40,
+ "method_mean": {
+  "T1": 3.78,
+  "T2": 4.32,
+  "T3": 4.32
+ },
+ "method_share_ge4": {
+  "T1": 0.5,
+  "T2": 0.8,
+  "T3": 0.92
+ },
+ "method_diff": {
+  "T3-T1": {
+   "mean": 0.55,
+   "ci": [
+    0.225,
+    0.875
+   ]
+  },
+  "T3-T2": {
+   "mean": 0.0,
+   "ci": [
+    -0.35,
+    0.35
+   ]
+  },
+  "T2-T1": {
+   "mean": 0.55,
+   "ci": [
+    0.3,
+    0.825
+   ]
+  }
+ },
+ "agreement": {
+  "VLM sonnet": {
+   "spearman": 0.652,
+   "spearman_ci": [
+    0.507,
+    0.763
+   ],
+   "pairwise": 0.831,
+   "pairwise_ci": [
+    0.733,
+    0.914
+   ],
+   "method_mean": {
+    "T1": 3.0,
+    "T2": 3.7,
+    "T3": 3.78
+   }
+  },
+  "VLM opus": {
+   "spearman": 0.349,
+   "spearman_ci": [
+    0.141,
+    0.556
+   ],
+   "pairwise": 0.75,
+   "pairwise_ci": [
+    0.669,
+    0.821
+   ],
+   "method_mean": {
+    "T1": 2.4,
+    "T2": 3.32,
+    "T3": 3.45
+   }
+  },
+  "rule font_px": {
+   "spearman": 0.064,
+   "spearman_ci": [
+    -0.145,
+    0.261
+   ],
+   "pairwise": 0.453,
+   "pairwise_ci": [
+    0.347,
+    0.559
+   ]
+  },
+  "rule -midword": {
+   "spearman": 0.58,
+   "spearman_ci": [
+    0.457,
+    0.688
+   ],
+   "pairwise": 0.743,
+   "pairwise_ci": [
+    0.681,
+    0.803
+   ]
+  },
+  "rule margin_px": {
+   "spearman": -0.026,
+   "spearman_ci": [
+    -0.239,
+    0.194
+   ],
+   "pairwise": 0.432,
+   "pairwise_ci": [
+    0.293,
+    0.567
+   ]
+  }
+ },
+ "pairs_non_tied": 74,
+ "human_repeat": {
+  "n": 6,
+  "spearman": 0.741,
+  "exact": 0.78
+ },
+ "tags_vs_rules": {
+  "단어 중간 끊김 ~ midword_breaks": {
+   "n_tagged": 3,
+   "tagged_mean": 3.0,
+   "untagged_mean": 0.51
+  },
+  "글자 작음 ~ font_px": {
+   "n_tagged": 20,
+   "tagged_mean": 19.25,
+   "untagged_mean": 22.51
+  },
+  "테두리에 붙음/답답함 ~ margin_px": {
+   "n_tagged": 14,
+   "tagged_mean": 8.7,
+   "untagged_mean": 12.2
+  }
+ },
+ "tag_counts": {
+  "T1": {
+   "글자 작음": 2,
+   "단어 중간 끊김": 3,
+   "테두리에 붙음/답답함": 8,
+   "줄 나눔 어색": 24,
+   "치우침/빈 공간": 1,
+   "지운 자국": 0
+  },
+  "T2": {
+   "글자 작음": 10,
+   "단어 중간 끊김": 0,
+   "테두리에 붙음/답답함": 2,
+   "줄 나눔 어색": 7,
+   "치우침/빈 공간": 2,
+   "지운 자국": 0
+  },
+  "T3": {
+   "글자 작음": 8,
+   "단어 중간 끊김": 0,
+   "테두리에 붙음/답답함": 4,
+   "줄 나눔 어색": 4,
+   "치우침/빈 공간": 6,
+   "지운 자국": 0
+  }
+ }
+}
