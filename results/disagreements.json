@@ -1,0 +1,683 @@
+[
+ {
+  "judge": "opus_image",
+  "bubble": "balloon_dream-033-0",
+  "system": "S3",
+  "source": "本当に宇宙まで上がったんでしょうか",
+  "ko": "정말로 우주까지 올라간 걸까요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "balloon_dream-033-0",
+  "system": "S2",
+  "source": "本当に宇宙まで上がったんでしょうか",
+  "ko": "정말 우주까지 올라간 걸까요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "balloon_dream-033-3",
+  "system": "S2",
+  "source": "いっいえ!そういうわけでは...",
+  "ko": "아, 아냐! 그런 건 아니고...",
+  "judge_score": 2,
+  "judge_tags": [
+   "말투"
+  ],
+  "human_score": 5,
+  "human_tags": [],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "tojime_no_siora-029-1",
+  "system": "S1",
+  "source": "そいつの力を恐れた街の奴らは",
+  "ko": "그놈의 힘을 두려워한 마을 놈들은",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "tojime_no_siora-029-1",
+  "system": "S3",
+  "source": "そいつの力を恐れた街の奴らは",
+  "ko": "그자의 힘을 두려워한 마을 놈들은",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "tojime_no_siora-029-2",
+  "system": "S2",
+  "source": "眼を焼き瞼を縫ってそいつを街から追い出した",
+  "ko": "눈을 지지고 눈꺼풀을 꿰매서 마을에서 쫓아냈다",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "누락"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "tojime_no_siora-029-3",
+  "system": "S3",
+  "source": "その哀れなガンマンは...",
+  "ko": "그 불쌍한 건맨은...",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "고유명사"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "tojime_no_siora-029-3",
+  "system": "S2",
+  "source": "その哀れなガンマンは...",
+  "ko": "그 불쌍한 건맨은...",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "고유명사"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "balloon_dream-025-1",
+  "system": "S2",
+  "source": "旅行帰りだからゆっくりしたいだぁ!?",
+  "ko": "여행 다녀와서 쉬고 싶다는 거야아!?",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "boureisougi-033-2",
+  "system": "S3",
+  "source": "事故にあった中でも",
+  "ko": "사고를 당한 와중에도",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_image",
+  "bubble": "boureisougi-033-2",
+  "system": "S2",
+  "source": "事故にあった中でも",
+  "ko": "사고를 당한 와중에도",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "balloon_dream-033-0",
+  "system": "S3",
+  "source": "本当に宇宙まで上がったんでしょうか",
+  "ko": "정말로 우주까지 올라간 걸까요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "balloon_dream-033-0",
+  "system": "S2",
+  "source": "本当に宇宙まで上がったんでしょうか",
+  "ko": "정말 우주까지 올라간 걸까요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "balloon_dream-033-3",
+  "system": "S2",
+  "source": "いっいえ!そういうわけでは...",
+  "ko": "아, 아냐! 그런 건 아니고...",
+  "judge_score": 2,
+  "judge_tags": [
+   "말투"
+  ],
+  "human_score": 5,
+  "human_tags": [],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "tojime_no_siora-029-1",
+  "system": "S1",
+  "source": "そいつの力を恐れた街の奴らは",
+  "ko": "그놈의 힘을 두려워한 마을 놈들은",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "tojime_no_siora-029-1",
+  "system": "S3",
+  "source": "そいつの力を恐れた街の奴らは",
+  "ko": "그자의 힘을 두려워한 마을 놈들은",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "tojime_no_siora-029-2",
+  "system": "S2",
+  "source": "眼を焼き瞼を縫ってそいつを街から追い出した",
+  "ko": "눈을 지지고 눈꺼풀을 꿰매서 마을에서 쫓아냈다",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "누락"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "tojime_no_siora-029-3",
+  "system": "S3",
+  "source": "その哀れなガンマンは...",
+  "ko": "그 불쌍한 건맨은...",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "고유명사"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "tojime_no_siora-029-3",
+  "system": "S2",
+  "source": "その哀れなガンマンは...",
+  "ko": "그 불쌍한 건맨은...",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "고유명사"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "balloon_dream-025-1",
+  "system": "S2",
+  "source": "旅行帰りだからゆっくりしたいだぁ!?",
+  "ko": "여행 다녀와서 쉬고 싶다는 거야아!?",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "boureisougi-033-2",
+  "system": "S3",
+  "source": "事故にあった中でも",
+  "ko": "사고를 당한 와중에도",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "opus_text",
+  "bubble": "boureisougi-033-2",
+  "system": "S2",
+  "source": "事故にあった中でも",
+  "ko": "사고를 당한 와중에도",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "balloon_dream-033-0",
+  "system": "S3",
+  "source": "本当に宇宙まで上がったんでしょうか",
+  "ko": "정말로 우주까지 올라간 걸까요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "balloon_dream-033-0",
+  "system": "S2",
+  "source": "本当に宇宙まで上がったんでしょうか",
+  "ko": "정말 우주까지 올라간 걸까요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "balloon_dream-033-3",
+  "system": "S2",
+  "source": "いっいえ!そういうわけでは...",
+  "ko": "아, 아냐! 그런 건 아니고...",
+  "judge_score": 3,
+  "judge_tags": [
+   "말투"
+  ],
+  "human_score": 5,
+  "human_tags": [],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "balloon_dream-033-5",
+  "system": "S2",
+  "source": "中身を確かめりゃわかることだ",
+  "ko": "속을 확인하면 알 일이잖아",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "boureisougi-030-2",
+  "system": "S2",
+  "source": "何を拗ねているんですか",
+  "ko": "뭘 삐져 있는 거예요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함",
+   "말투"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "rasetugari-007-1",
+  "system": "S3",
+  "source": "さま...",
+  "ko": "님...",
+  "judge_score": 3,
+  "judge_tags": [
+   "말투"
+  ],
+  "human_score": 1,
+  "human_tags": [
+   "오역"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "rasetugari-007-1",
+  "system": "S1",
+  "source": "さま...",
+  "ko": "님...",
+  "judge_score": 3,
+  "judge_tags": [
+   "말투"
+  ],
+  "human_score": 1,
+  "human_tags": [
+   "오역"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "tencho_isoro-031-0",
+  "system": "S3",
+  "source": "...できる気がしてきた...",
+  "ko": "...할 수 있을 것 같은 기분이 들기 시작했어...",
+  "judge_score": 3,
+  "judge_tags": [
+   "어색함",
+   "길이"
+  ],
+  "human_score": 5,
+  "human_tags": [],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "tojime_no_siora-029-1",
+  "system": "S1",
+  "source": "そいつの力を恐れた街の奴らは",
+  "ko": "그놈의 힘을 두려워한 마을 놈들은",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "tojime_no_siora-029-3",
+  "system": "S3",
+  "source": "その哀れなガンマンは...",
+  "ko": "그 불쌍한 건맨은...",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "고유명사"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "tojime_no_siora-029-3",
+  "system": "S2",
+  "source": "その哀れなガンマンは...",
+  "ko": "그 불쌍한 건맨은...",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "고유명사"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "balloon_dream-025-2",
+  "system": "S2",
+  "source": "顧問なんだから車ぐらい出しやがれ!!",
+  "ko": "고문이면 차 정도는 내놔!!",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함",
+   "말투"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "boureisougi-033-2",
+  "system": "S3",
+  "source": "事故にあった中でも",
+  "ko": "사고를 당한 와중에도",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "boureisougi-033-2",
+  "system": "S1",
+  "source": "事故にあった中でも",
+  "ko": "사고가 났는데도",
+  "judge_score": 3,
+  "judge_tags": [
+   "오역"
+  ],
+  "human_score": 5,
+  "human_tags": [],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_image",
+  "bubble": "boureisougi-033-2",
+  "system": "S2",
+  "source": "事故にあった中でも",
+  "ko": "사고를 당한 와중에도",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "balloon_dream-033-0",
+  "system": "S3",
+  "source": "本当に宇宙まで上がったんでしょうか",
+  "ko": "정말로 우주까지 올라간 걸까요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "balloon_dream-033-0",
+  "system": "S2",
+  "source": "本当に宇宙まで上がったんでしょうか",
+  "ko": "정말 우주까지 올라간 걸까요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "balloon_dream-033-3",
+  "system": "S2",
+  "source": "いっいえ!そういうわけでは...",
+  "ko": "아, 아냐! 그런 건 아니고...",
+  "judge_score": 2,
+  "judge_tags": [
+   "말투"
+  ],
+  "human_score": 5,
+  "human_tags": [],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "boureisougi-030-2",
+  "system": "S2",
+  "source": "何を拗ねているんですか",
+  "ko": "뭘 삐져 있는 거예요",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함",
+   "말투"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "tojime_no_siora-029-1",
+  "system": "S1",
+  "source": "そいつの力を恐れた街の奴らは",
+  "ko": "그놈의 힘을 두려워한 마을 놈들은",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "tojime_no_siora-029-1",
+  "system": "S3",
+  "source": "そいつの力を恐れた街の奴らは",
+  "ko": "그자의 힘을 두려워한 마을 놈들은",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "tojime_no_siora-029-3",
+  "system": "S3",
+  "source": "その哀れなガンマンは...",
+  "ko": "그 불쌍한 건맨은...",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "고유명사"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "tojime_no_siora-029-3",
+  "system": "S2",
+  "source": "その哀れなガンマンは...",
+  "ko": "그 불쌍한 건맨은...",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "고유명사"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "balloon_dream-025-2",
+  "system": "S2",
+  "source": "顧問なんだから車ぐらい出しやがれ!!",
+  "ko": "고문이면 차 정도는 내놔!!",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함",
+   "말투"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "boureisougi-033-2",
+  "system": "S3",
+  "source": "事故にあった中でも",
+  "ko": "사고를 당한 와중에도",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ },
+ {
+  "judge": "sonnet_text",
+  "bubble": "boureisougi-033-2",
+  "system": "S2",
+  "source": "事故にあった中でも",
+  "ko": "사고를 당한 와중에도",
+  "judge_score": 5,
+  "judge_tags": [],
+  "human_score": 3,
+  "human_tags": [
+   "어색함"
+  ],
+  "human_note": ""
+ }
+]

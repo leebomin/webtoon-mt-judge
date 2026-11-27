@@ -1,0 +1,625 @@
+{
+ "balloon_dream-033-0": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-033-1": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-033-2": {
+  "A": {
+   "score": 4,
+   "tags": [
+    "말투"
+   ]
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-033-3": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 2,
+   "tags": [
+    "말투"
+   ]
+  }
+ },
+ "balloon_dream-033-4": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-033-5": {
+  "A": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-0": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-1": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-2": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-3": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-4": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-5": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "오역"
+   ]
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "rasetugari-007-0": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "오역",
+    "말투"
+   ]
+  },
+  "C": {
+   "score": 2,
+   "tags": [
+    "오역",
+    "말투"
+   ]
+  }
+ },
+ "rasetugari-007-1": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 2,
+   "tags": [
+    "오역",
+    "말투"
+   ]
+  },
+  "C": {
+   "score": 2,
+   "tags": [
+    "오역",
+    "말투"
+   ]
+  }
+ },
+ "rasetugari-007-2": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "rasetugari-007-3": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "rasetugari-007-4": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-0": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "누락"
+   ]
+  },
+  "C": {
+   "score": 4,
+   "tags": [
+    "어색함",
+    "길이"
+   ]
+  }
+ },
+ "tencho_isoro-031-1": {
+  "A": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-2": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-3": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-4": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-5": {
+  "A": {
+   "score": 3,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "tojime_no_siora-029-0": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tojime_no_siora-029-1": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tojime_no_siora-029-2": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tojime_no_siora-029-3": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tojime_no_siora-029-4": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "tojime_no_siora-029-5": {
+  "A": {
+   "score": 4,
+   "tags": [
+    "말투"
+   ]
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-025-0": {
+  "A": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "balloon_dream-025-1": {
+  "A": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-025-2": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "score": 4,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "balloon_dream-025-3": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-025-4": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "말투"
+   ]
+  },
+  "C": {
+   "score": 3,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "boureisougi-033-0": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-1": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 4,
+   "tags": [
+    "말투"
+   ]
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-2": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-3": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-4": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-5": {
+  "A": {
+   "score": 5,
+   "tags": []
+  },
+  "B": {
+   "score": 5,
+   "tags": []
+  },
+  "C": {
+   "score": 4,
+   "tags": [
+    "말투"
+   ]
+  }
+ }
+}

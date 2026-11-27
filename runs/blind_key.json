@@ -1,0 +1,202 @@
+{
+ "balloon_dream-033-0": {
+  "A": "S3",
+  "B": "S1",
+  "C": "S2"
+ },
+ "balloon_dream-033-1": {
+  "A": "S3",
+  "B": "S1",
+  "C": "S2"
+ },
+ "balloon_dream-033-2": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "balloon_dream-033-3": {
+  "A": "S3",
+  "B": "S1",
+  "C": "S2"
+ },
+ "balloon_dream-033-4": {
+  "A": "S2",
+  "B": "S1",
+  "C": "S3"
+ },
+ "balloon_dream-033-5": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "boureisougi-030-0": {
+  "A": "S1",
+  "B": "S3",
+  "C": "S2"
+ },
+ "boureisougi-030-1": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "boureisougi-030-2": {
+  "A": "S3",
+  "B": "S2",
+  "C": "S1"
+ },
+ "boureisougi-030-3": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "boureisougi-030-4": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "boureisougi-030-5": {
+  "A": "S1",
+  "B": "S2",
+  "C": "S3"
+ },
+ "rasetugari-007-0": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "rasetugari-007-1": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "rasetugari-007-2": {
+  "A": "S1",
+  "B": "S3",
+  "C": "S2"
+ },
+ "rasetugari-007-3": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "rasetugari-007-4": {
+  "A": "S1",
+  "B": "S2",
+  "C": "S3"
+ },
+ "tencho_isoro-031-0": {
+  "A": "S2",
+  "B": "S1",
+  "C": "S3"
+ },
+ "tencho_isoro-031-1": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "tencho_isoro-031-2": {
+  "A": "S3",
+  "B": "S1",
+  "C": "S2"
+ },
+ "tencho_isoro-031-3": {
+  "A": "S2",
+  "B": "S1",
+  "C": "S3"
+ },
+ "tencho_isoro-031-4": {
+  "A": "S2",
+  "B": "S1",
+  "C": "S3"
+ },
+ "tencho_isoro-031-5": {
+  "A": "S2",
+  "B": "S1",
+  "C": "S3"
+ },
+ "tojime_no_siora-029-0": {
+  "A": "S1",
+  "B": "S3",
+  "C": "S2"
+ },
+ "tojime_no_siora-029-1": {
+  "A": "S1",
+  "B": "S3",
+  "C": "S2"
+ },
+ "tojime_no_siora-029-2": {
+  "A": "S1",
+  "B": "S2",
+  "C": "S3"
+ },
+ "tojime_no_siora-029-3": {
+  "A": "S1",
+  "B": "S3",
+  "C": "S2"
+ },
+ "tojime_no_siora-029-4": {
+  "A": "S2",
+  "B": "S3",
+  "C": "S1"
+ },
+ "tojime_no_siora-029-5": {
+  "A": "S2",
+  "B": "S1",
+  "C": "S3"
+ },
+ "balloon_dream-025-0": {
+  "A": "S3",
+  "B": "S2",
+  "C": "S1"
+ },
+ "balloon_dream-025-1": {
+  "A": "S1",
+  "B": "S2",
+  "C": "S3"
+ },
+ "balloon_dream-025-2": {
+  "A": "S1",
+  "B": "S3",
+  "C": "S2"
+ },
+ "balloon_dream-025-3": {
+  "A": "S3",
+  "B": "S1",
+  "C": "S2"
+ },
+ "balloon_dream-025-4": {
+  "A": "S3",
+  "B": "S2",
+  "C": "S1"
+ },
+ "boureisougi-033-0": {
+  "A": "S3",
+  "B": "S2",
+  "C": "S1"
+ },
+ "boureisougi-033-1": {
+  "A": "S3",
+  "B": "S2",
+  "C": "S1"
+ },
+ "boureisougi-033-2": {
+  "A": "S3",
+  "B": "S1",
+  "C": "S2"
+ },
+ "boureisougi-033-3": {
+  "A": "S2",
+  "B": "S1",
+  "C": "S3"
+ },
+ "boureisougi-033-4": {
+  "A": "S1",
+  "B": "S2",
+  "C": "S3"
+ },
+ "boureisougi-033-5": {
+  "A": "S1",
+  "B": "S3",
+  "C": "S2"
+ }
+}

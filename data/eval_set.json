@@ -1,0 +1,502 @@
+{
+ "seed": 20261127,
+ "source": "OpenMantra (CC BY-NC 4.0)",
+ "pages": [
+  {
+   "book": "balloon_dream",
+   "page_index": 33,
+   "image": "images/balloon_dream/ja/032.jpg",
+   "bubbles": [
+    {
+     "id": "balloon_dream-033-0",
+     "box": [
+      610,
+      550,
+      132,
+      125
+     ],
+     "ja": "本当に宇宙まで上がったんでしょうか",
+     "en_ref": "I wonder if it really went up into space?"
+    },
+    {
+     "id": "balloon_dream-033-1",
+     "box": [
+      391,
+      552,
+      63,
+      96
+     ],
+     "ja": "なっなんだよ",
+     "en_ref": "hey, come on!"
+    },
+    {
+     "id": "balloon_dream-033-2",
+     "box": [
+      209,
+      546,
+      71,
+      91
+     ],
+     "ja": "疑ってんのか",
+     "en_ref": "are you in doubt?"
+    },
+    {
+     "id": "balloon_dream-033-3",
+     "box": [
+      85,
+      543,
+      88,
+      127
+     ],
+     "ja": "いっいえ!そういうわけでは...",
+     "en_ref": "no, no, that's not what I meant!"
+    },
+    {
+     "id": "balloon_dream-033-4",
+     "box": [
+      671,
+      743,
+      77,
+      116
+     ],
+     "ja": "まあそんなのは",
+     "en_ref": "well,"
+    },
+    {
+     "id": "balloon_dream-033-5",
+     "box": [
+      337,
+      741,
+      82,
+      150
+     ],
+     "ja": "中身を確かめりゃわかることだ",
+     "en_ref": "we'll find out as we check the data."
+    }
+   ],
+   "page_file": "data/pages/balloon_dream-033.jpg"
+  },
+  {
+   "book": "boureisougi",
+   "page_index": 30,
+   "image": "images/boureisougi/ja/029.jpg",
+   "bubbles": [
+    {
+     "id": "boureisougi-030-0",
+     "box": [
+      431,
+      326,
+      60,
+      100
+     ],
+     "ja": "綺麗でしたねぇ",
+     "en_ref": "You were so beautiful"
+    },
+    {
+     "id": "boureisougi-030-1",
+     "box": [
+      230,
+      403,
+      82,
+      127
+     ],
+     "ja": ".....私はいつだって綺麗よ",
+     "en_ref": "I am always beautiful!"
+    },
+    {
+     "id": "boureisougi-030-2",
+     "box": [
+      400,
+      598,
+      70,
+      103
+     ],
+     "ja": "何を拗ねているんですか",
+     "en_ref": "Why\nare you being sulky?"
+    },
+    {
+     "id": "boureisougi-030-3",
+     "box": [
+      288,
+      639,
+      112,
+      134
+     ],
+     "ja": "すずめさんの側にもいなかったですし",
+     "en_ref": "You weren't with Suzume-san during funeral."
+    },
+    {
+     "id": "boureisougi-030-4",
+     "box": [
+      111,
+      673,
+      77,
+      88
+     ],
+     "ja": "当たり前でしょ!",
+     "en_ref": "of course not!"
+    },
+    {
+     "id": "boureisougi-030-5",
+     "box": [
+      334,
+      917,
+      104,
+      184
+     ],
+     "ja": "すずめにはあんな顔見られたくなかったのにツ",
+     "en_ref": "i didn't want Suzume to see my face like that!"
+    }
+   ],
+   "page_file": "data/pages/boureisougi-030.jpg"
+  },
+  {
+   "book": "rasetugari",
+   "page_index": 7,
+   "image": "images/rasetugari/ja/006.jpg",
+   "bubbles": [
+    {
+     "id": "rasetugari-007-0",
+     "box": [
+      701,
+      109,
+      54,
+      73
+     ],
+     "ja": "にい...",
+     "en_ref": "bb..."
+    },
+    {
+     "id": "rasetugari-007-1",
+     "box": [
+      511,
+      142,
+      59,
+      66
+     ],
+     "ja": "さま...",
+     "en_ref": "brother.."
+    },
+    {
+     "id": "rasetugari-007-2",
+     "box": [
+      455,
+      83,
+      59,
+      95
+     ],
+     "ja": "やめろ...",
+     "en_ref": "Stop..."
+    },
+    {
+     "id": "rasetugari-007-3",
+     "box": [
+      244,
+      132,
+      68,
+      116
+     ],
+     "ja": "頼むやめてくれ...",
+     "en_ref": "don't..."
+    },
+    {
+     "id": "rasetugari-007-4",
+     "box": [
+      420,
+      740,
+      40,
+      92
+     ],
+     "ja": "あっ...",
+     "en_ref": "uh..."
+    }
+   ],
+   "page_file": "data/pages/rasetugari-007.jpg"
+  },
+  {
+   "book": "tencho_isoro",
+   "page_index": 31,
+   "image": "images/tencho_isoro/ja/030.jpg",
+   "bubbles": [
+    {
+     "id": "tencho_isoro-031-0",
+     "box": [
+      284,
+      80,
+      82,
+      115
+     ],
+     "ja": "...できる気がしてきた...",
+     "en_ref": "...i'm starting to feel like i can do it..."
+    },
+    {
+     "id": "tencho_isoro-031-1",
+     "box": [
+      68,
+      243,
+      65,
+      112
+     ],
+     "ja": "そうそうその調子",
+     "en_ref": "yes, that's it. "
+    },
+    {
+     "id": "tencho_isoro-031-2",
+     "box": [
+      378,
+      702,
+      99,
+      168
+     ],
+     "ja": "いただきます",
+     "en_ref": "let's eat!"
+    },
+    {
+     "id": "tencho_isoro-031-3",
+     "box": [
+      270,
+      739,
+      71,
+      67
+     ],
+     "ja": "....",
+     "en_ref": "...."
+    },
+    {
+     "id": "tencho_isoro-031-4",
+     "box": [
+      212,
+      769,
+      69,
+      128
+     ],
+     "ja": "野菜おっきいね",
+     "en_ref": "big vegetables."
+    },
+    {
+     "id": "tencho_isoro-031-5",
+     "box": [
+      74,
+      711,
+      101,
+      116
+     ],
+     "ja": "食べ応えあってうまいぞ?",
+     "en_ref": "The bigger the better.\nThey're more filling"
+    }
+   ],
+   "page_file": "data/pages/tencho_isoro-031.jpg"
+  },
+  {
+   "book": "tojime_no_siora",
+   "page_index": 29,
+   "image": "images/tojime_no_siora/ja/028.jpg",
+   "bubbles": [
+    {
+     "id": "tojime_no_siora-029-0",
+     "box": [
+      607,
+      82,
+      128,
+      204
+     ],
+     "ja": "復讐からある街のマフィアを皆殺しにしたガンマンがいた...",
+     "en_ref": "there was a gunman that killed all the mafias in the city for avenge."
+    },
+    {
+     "id": "tojime_no_siora-029-1",
+     "box": [
+      172,
+      93,
+      100,
+      129
+     ],
+     "ja": "そいつの力を恐れた街の奴らは",
+     "en_ref": "people in the city feared his power."
+    },
+    {
+     "id": "tojime_no_siora-029-2",
+     "box": [
+      52,
+      165,
+      115,
+      186
+     ],
+     "ja": "眼を焼き瞼を縫ってそいつを街から追い出した",
+     "en_ref": "so they burnt the eyes, patched the eyelid, and kicked her out of the city."
+    },
+    {
+     "id": "tojime_no_siora-029-3",
+     "box": [
+      637,
+      458,
+      82,
+      143
+     ],
+     "ja": "その哀れなガンマンは...",
+     "en_ref": "and that poor gunman,"
+    },
+    {
+     "id": "tojime_no_siora-029-4",
+     "box": [
+      100,
+      457,
+      127,
+      185
+     ],
+     "ja": "今も亡霊のように悪党を撃って回ってるという...",
+     "en_ref": "is still shooting bad guys like ghosts even today."
+    },
+    {
+     "id": "tojime_no_siora-029-5",
+     "box": [
+      153,
+      901,
+      82,
+      143
+     ],
+     "ja": "こいつだってのか...?",
+     "en_ref": "and that's her...?"
+    }
+   ],
+   "page_file": "data/pages/tojime_no_siora-029.jpg"
+  },
+  {
+   "book": "balloon_dream",
+   "page_index": 25,
+   "image": "images/balloon_dream/ja/024.jpg",
+   "bubbles": [
+    {
+     "id": "balloon_dream-025-0",
+     "box": [
+      133,
+      273,
+      136,
+      222
+     ],
+     "ja": "はあっ!?",
+     "en_ref": "What!?"
+    },
+    {
+     "id": "balloon_dream-025-1",
+     "box": [
+      637,
+      777,
+      114,
+      181
+     ],
+     "ja": "旅行帰りだからゆっくりしたいだぁ!?",
+     "en_ref": "you need a rest coming back from your time off!? "
+    },
+    {
+     "id": "balloon_dream-025-2",
+     "box": [
+      349,
+      780,
+      120,
+      196
+     ],
+     "ja": "顧問なんだから車ぐらい出しやがれ!!",
+     "en_ref": "you're the advisor. at least give us a ride!!"
+    },
+    {
+     "id": "balloon_dream-025-3",
+     "box": [
+      265,
+      781,
+      61,
+      87
+     ],
+     "ja": "ったく",
+     "en_ref": "Geez..."
+    },
+    {
+     "id": "balloon_dream-025-4",
+     "box": [
+      87,
+      771,
+      83,
+      151
+     ],
+     "ja": "とりあえず落下地点までの足は確保っと",
+     "en_ref": "at least, we can get to the fall point."
+    }
+   ],
+   "page_file": "data/pages/balloon_dream-025.jpg"
+  },
+  {
+   "book": "boureisougi",
+   "page_index": 33,
+   "image": "images/boureisougi/ja/032.jpg",
+   "bubbles": [
+    {
+     "id": "boureisougi-033-0",
+     "box": [
+      658,
+      74,
+      61,
+      84
+     ],
+     "ja": "車外から見つかって",
+     "en_ref": "the police found them,"
+    },
+    {
+     "id": "boureisougi-033-1",
+     "box": [
+      458,
+      142,
+      91,
+      158
+     ],
+     "ja": "お姉さんの遺品としてこちらで預かっていました",
+     "en_ref": "and we were keeping them."
+    },
+    {
+     "id": "boureisougi-033-2",
+     "box": [
+      66,
+      90,
+      67,
+      117
+     ],
+     "ja": "事故にあった中でも",
+     "en_ref": "This box was the only thing"
+    },
+    {
+     "id": "boureisougi-033-3",
+     "box": [
+      235,
+      260,
+      84,
+      126
+     ],
+     "ja": "これだけは奇跡的に無傷だったんです",
+     "en_ref": "that was undamaged in that terrible accident"
+    },
+    {
+     "id": "boureisougi-033-4",
+     "box": [
+      707,
+      571,
+      59,
+      83
+     ],
+     "ja": "きっと",
+     "en_ref": "Maybe"
+    },
+    {
+     "id": "boureisougi-033-5",
+     "box": [
+      86,
+      670,
+      103,
+      142
+     ],
+     "ja": "お姉さんが守ってくれていたんですね",
+     "en_ref": "it was protected by your sister."
+    }
+   ],
+   "page_file": "data/pages/boureisougi-033.jpg"
+  }
+ ]
+}

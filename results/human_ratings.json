@@ -1,0 +1,699 @@
+{
+ "main|balloon_dream-033-1|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-033-1|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-033-1|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-033-2|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-033-2|B": {
+  "tags": [],
+  "score": 4
+ },
+ "main|balloon_dream-033-2|C": {
+  "tags": [
+   "말투",
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|balloon_dream-033-3|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-033-3|C": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|balloon_dream-033-3|A": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|balloon_dream-033-4|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-033-4|B": {
+  "tags": [],
+  "score": 4
+ },
+ "main|balloon_dream-033-4|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-033-5|B": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|balloon_dream-033-5|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|balloon_dream-033-5|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-033-0|A": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|balloon_dream-033-0|B": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|balloon_dream-033-0|C": {
+  "tags": [],
+  "score": 4,
+  "note": "존댓말"
+ },
+ "main|boureisougi-030-0|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-030-0|B": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|boureisougi-030-0|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|boureisougi-030-1|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-030-1|B": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|boureisougi-030-1|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|boureisougi-030-2|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-030-2|B": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 3
+ },
+ "main|boureisougi-030-2|A": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|boureisougi-030-3|A": {
+  "tags": [],
+  "score": 4
+ },
+ "main|boureisougi-030-3|B": {
+  "tags": [],
+  "score": 4
+ },
+ "main|boureisougi-030-3|C": {
+  "tags": [],
+  "score": 4
+ },
+ "main|boureisougi-030-4|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-030-4|A": {
+  "tags": [],
+  "score": 4
+ },
+ "main|boureisougi-030-4|C": {
+  "tags": [],
+  "score": 4
+ },
+ "main|boureisougi-030-5|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-030-5|B": {
+  "tags": [
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|boureisougi-030-5|A": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|rasetugari-007-0|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|rasetugari-007-0|B": {
+  "tags": [
+   "오역"
+  ],
+  "score": 1
+ },
+ "main|rasetugari-007-0|A": {
+  "tags": [
+   "오역"
+  ],
+  "score": 1
+ },
+ "main|rasetugari-007-1|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|rasetugari-007-1|B": {
+  "tags": [
+   "오역"
+  ],
+  "score": 1
+ },
+ "main|rasetugari-007-1|C": {
+  "tags": [
+   "오역"
+  ],
+  "score": 1
+ },
+ "main|rasetugari-007-2|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|rasetugari-007-2|B": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|rasetugari-007-2|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|rasetugari-007-3|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|rasetugari-007-3|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|rasetugari-007-3|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|rasetugari-007-4|A": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|rasetugari-007-4|B": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|rasetugari-007-4|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-0|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|tencho_isoro-031-0|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-0|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-1|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-1|B": {
+  "tags": [],
+  "score": 4,
+  "note": "문맥"
+ },
+ "main|tencho_isoro-031-1|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-2|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-2|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-2|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-3|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-3|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-3|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-4|A": {
+  "tags": [],
+  "score": 4,
+  "note": "채소로 번역하는 것이 바람직해 보임"
+ },
+ "main|tencho_isoro-031-4|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tencho_isoro-031-4|C": {
+  "tags": [
+   "말투",
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|tencho_isoro-031-5|A": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 3
+ },
+ "main|tencho_isoro-031-5|B": {
+  "tags": [
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|tencho_isoro-031-5|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tojime_no_siora-029-0|A": {
+  "tags": [
+   "고유명사"
+  ],
+  "score": 4
+ },
+ "main|tojime_no_siora-029-0|C": {
+  "tags": [
+   "고유명사"
+  ],
+  "score": 4
+ },
+ "main|tojime_no_siora-029-0|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tojime_no_siora-029-1|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|tojime_no_siora-029-1|A": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|tojime_no_siora-029-1|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tojime_no_siora-029-2|B": {
+  "tags": [
+   "누락"
+  ],
+  "score": 3
+ },
+ "main|tojime_no_siora-029-2|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|tojime_no_siora-029-2|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tojime_no_siora-029-3|B": {
+  "tags": [
+   "고유명사"
+  ],
+  "score": 3
+ },
+ "main|tojime_no_siora-029-3|C": {
+  "tags": [
+   "고유명사"
+  ],
+  "score": 3
+ },
+ "main|tojime_no_siora-029-3|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tojime_no_siora-029-4|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|tojime_no_siora-029-4|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tojime_no_siora-029-4|B": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|tojime_no_siora-029-5|C": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|tojime_no_siora-029-5|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|tojime_no_siora-029-5|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-025-0|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-025-0|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-025-0|B": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|balloon_dream-025-1|A": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|balloon_dream-025-1|C": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 4
+ },
+ "main|balloon_dream-025-1|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-025-2|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-025-2|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-025-2|A": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 3
+ },
+ "main|balloon_dream-025-3|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-025-3|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|balloon_dream-025-3|B": {
+  "tags": [],
+  "score": 4
+ },
+ "main|balloon_dream-025-4|A": {
+  "tags": [
+   "말투",
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|balloon_dream-025-4|B": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 3
+ },
+ "main|balloon_dream-025-4|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-0|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-0|B": {
+  "tags": [],
+  "score": 4
+ },
+ "main|boureisougi-033-0|C": {
+  "tags": [],
+  "score": 4
+ },
+ "main|boureisougi-033-1|A": {
+  "tags": [
+   "누락",
+   "말투"
+  ],
+  "score": 3
+ },
+ "main|boureisougi-033-1|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-1|B": {
+  "tags": [
+   "말투",
+   "어색함"
+  ],
+  "score": 4
+ },
+ "main|boureisougi-033-2|B": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|boureisougi-033-2|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "main|boureisougi-033-2|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-3|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-3|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-3|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-4|A": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-4|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-4|C": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-5|B": {
+  "tags": [],
+  "score": 5
+ },
+ "main|boureisougi-033-5|C": {
+  "tags": [],
+  "score": 4,
+  "note": "띄어쓰기"
+ },
+ "main|boureisougi-033-5|A": {
+  "tags": [],
+  "score": 3
+ },
+ "repeat|balloon_dream-025-0|A": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|balloon_dream-025-0|B": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|balloon_dream-025-0|C": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|rasetugari-007-2|B": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|rasetugari-007-2|C": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|rasetugari-007-2|A": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|tojime_no_siora-029-5|C": {
+  "tags": [
+   "어색함"
+  ],
+  "score": 3
+ },
+ "repeat|tojime_no_siora-029-5|A": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|tojime_no_siora-029-5|B": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|boureisougi-030-5|B": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|boureisougi-030-5|C": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|boureisougi-030-5|A": {
+  "tags": [
+   "어색함",
+   "말투"
+  ],
+  "score": 3
+ },
+ "repeat|tencho_isoro-031-0|A": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|tencho_isoro-031-0|C": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|tencho_isoro-031-0|B": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|boureisougi-030-1|B": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|boureisougi-030-1|A": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|boureisougi-030-1|C": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|balloon_dream-033-4|A": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|balloon_dream-033-4|B": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|balloon_dream-033-4|C": {
+  "tags": [],
+  "score": 4
+ },
+ "repeat|boureisougi-033-4|A": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|boureisougi-033-4|B": {
+  "tags": [],
+  "score": 5
+ },
+ "repeat|boureisougi-033-4|C": {
+  "tags": [],
+  "score": 5
+ }
+}
