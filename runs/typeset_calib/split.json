@@ -1,0 +1,184 @@
+{
+ "anchors": [
+  "balloon_dream-025-3",
+  "balloon_dream-025-4",
+  "balloon_dream-033-1",
+  "balloon_dream-033-4",
+  "boureisougi-033-3",
+  "rasetugari-007-0",
+  "rasetugari-007-2",
+  "tojime_no_siora-029-0"
+ ],
+ "test": [
+  "balloon_dream-025-0",
+  "balloon_dream-025-1",
+  "balloon_dream-025-2",
+  "balloon_dream-033-0",
+  "balloon_dream-033-2",
+  "balloon_dream-033-3",
+  "balloon_dream-033-5",
+  "boureisougi-030-0",
+  "boureisougi-030-1",
+  "boureisougi-030-2",
+  "boureisougi-030-3",
+  "boureisougi-030-4",
+  "boureisougi-030-5",
+  "boureisougi-033-0",
+  "boureisougi-033-1",
+  "boureisougi-033-2",
+  "boureisougi-033-4",
+  "boureisougi-033-5",
+  "rasetugari-007-1",
+  "rasetugari-007-3",
+  "rasetugari-007-4",
+  "tencho_isoro-031-0",
+  "tencho_isoro-031-1",
+  "tencho_isoro-031-2",
+  "tencho_isoro-031-3",
+  "tencho_isoro-031-4",
+  "tencho_isoro-031-5",
+  "tojime_no_siora-029-1",
+  "tojime_no_siora-029-2",
+  "tojime_no_siora-029-3",
+  "tojime_no_siora-029-4",
+  "tojime_no_siora-029-5"
+ ],
+ "anchor_ratings": {
+  "balloon_dream-025-3": {
+   "A": {
+    "score": 4,
+    "tags": [
+     "글자 작음"
+    ]
+   },
+   "B": {
+    "score": 5,
+    "tags": []
+   },
+   "C": {
+    "score": 3,
+    "tags": [
+     "줄 나눔 어색"
+    ]
+   }
+  },
+  "balloon_dream-025-4": {
+   "A": {
+    "score": 4,
+    "tags": [
+     "줄 나눔 어색"
+    ]
+   },
+   "B": {
+    "score": 5,
+    "tags": []
+   },
+   "C": {
+    "score": 3,
+    "tags": [
+     "단어 중간 끊김",
+     "줄 나눔 어색"
+    ]
+   }
+  },
+  "balloon_dream-033-1": {
+   "A": {
+    "score": 5,
+    "tags": []
+   },
+   "B": {
+    "score": 5,
+    "tags": []
+   },
+   "C": {
+    "score": 5,
+    "tags": []
+   }
+  },
+  "balloon_dream-033-4": {
+   "A": {
+    "score": 5,
+    "tags": []
+   },
+   "B": {
+    "score": 3,
+    "tags": [
+     "줄 나눔 어색"
+    ]
+   },
+   "C": {
+    "score": 4,
+    "tags": [
+     "치우침/빈 공간"
+    ]
+   }
+  },
+  "boureisougi-033-3": {
+   "A": {
+    "score": 5,
+    "tags": []
+   },
+   "B": {
+    "score": 3,
+    "tags": [
+     "치우침/빈 공간",
+     "테두리에 붙음/답답함"
+    ]
+   },
+   "C": {
+    "score": 4,
+    "tags": [
+     "치우침/빈 공간"
+    ]
+   }
+  },
+  "rasetugari-007-0": {
+   "A": {
+    "score": 5,
+    "tags": []
+   },
+   "B": {
+    "score": 5,
+    "tags": []
+   },
+   "C": {
+    "score": 5,
+    "tags": []
+   }
+  },
+  "rasetugari-007-2": {
+   "A": {
+    "score": 5,
+    "tags": []
+   },
+   "B": {
+    "score": 5,
+    "tags": []
+   },
+   "C": {
+    "score": 4,
+    "tags": [
+     "글자 작음"
+    ]
+   }
+  },
+  "tojime_no_siora-029-0": {
+   "A": {
+    "score": 4,
+    "tags": [
+     "줄 나눔 어색"
+    ]
+   },
+   "B": {
+    "score": 4,
+    "tags": [
+     "줄 나눔 어색"
+    ]
+   },
+   "C": {
+    "score": 5,
+    "tags": []
+   }
+  }
+ }
+}

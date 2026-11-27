@@ -1,0 +1,100 @@
+{
+ "n_test": 32,
+ "anchors": [
+  "balloon_dream-025-3",
+  "balloon_dream-025-4",
+  "balloon_dream-033-1",
+  "balloon_dream-033-4",
+  "boureisougi-033-3",
+  "rasetugari-007-0",
+  "rasetugari-007-2",
+  "tojime_no_siora-029-0"
+ ],
+ "human_mean": 4.08,
+ "judges": {
+  "opus": {
+   "original": {
+    "spearman": 0.354,
+    "spearman_ci": [
+     0.103,
+     0.599
+    ],
+    "pairwise": 0.733,
+    "pairwise_ci": [
+     0.643,
+     0.825
+    ],
+    "mean": 3.04
+   },
+   "with_examples": {
+    "spearman": 0.729,
+    "spearman_ci": [
+     0.603,
+     0.825
+    ],
+    "pairwise": 0.81,
+    "pairwise_ci": [
+     0.711,
+     0.9
+    ],
+    "mean": 4.01
+   },
+   "diff_spearman": {
+    "mean": 0.374,
+    "ci": [
+     0.111,
+     0.647
+    ]
+   },
+   "diff_pairwise": {
+    "mean": 0.078,
+    "ci": [
+     -0.008,
+     0.163
+    ]
+   }
+  },
+  "sonnet": {
+   "original": {
+    "spearman": 0.621,
+    "spearman_ci": [
+     0.455,
+     0.759
+    ],
+    "pairwise": 0.81,
+    "pairwise_ci": [
+     0.698,
+     0.915
+    ],
+    "mean": 3.47
+   },
+   "with_examples": {
+    "spearman": 0.551,
+    "spearman_ci": [
+     0.364,
+     0.712
+    ],
+    "pairwise": 0.698,
+    "pairwise_ci": [
+     0.59,
+     0.817
+    ],
+    "mean": 4.19
+   },
+   "diff_spearman": {
+    "mean": -0.071,
+    "ci": [
+     -0.242,
+     0.095
+    ]
+   },
+   "diff_pairwise": {
+    "mean": -0.112,
+    "ci": [
+     -0.211,
+     -0.018
+    ]
+   }
+  }
+ }
+}
