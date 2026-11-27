@@ -1,0 +1,142 @@
+{
+ "sonnet": {
+  "v2": {
+   "spearman": 0.361,
+   "spearman_ci": [
+    0.12,
+    0.58
+   ],
+   "pairwise": 0.632,
+   "pairwise_ci": [
+    0.53,
+    0.73
+   ],
+   "share_5": 0.75,
+   "awkward_recall": 0.33
+  },
+  "v3_min": {
+   "spearman": 0.359,
+   "spearman_ci": [
+    0.11,
+    0.57
+   ],
+   "pairwise": 0.638,
+   "pairwise_ci": [
+    0.51,
+    0.75
+   ],
+   "share_5": 0.53,
+   "awkward_recall": 0.58
+  },
+  "v3_mean": {
+   "spearman": 0.363,
+   "spearman_ci": [
+    0.15,
+    0.55
+   ],
+   "pairwise": 0.625,
+   "pairwise_ci": [
+    0.55,
+    0.7
+   ],
+   "share_5": 0.77,
+   "awkward_recall": 0.28
+  },
+  "v3_naturalness_only": {
+   "spearman": 0.385,
+   "spearman_ci": [
+    0.15,
+    0.59
+   ],
+   "pairwise": 0.645,
+   "pairwise_ci": [
+    0.52,
+    0.76
+   ],
+   "share_5": 0.54,
+   "awkward_recall": 0.58
+  },
+  "delta_v3min_minus_v2": {
+   "spearman": [
+    -0.177,
+    0.181
+   ],
+   "pairwise": [
+    -0.1,
+    0.11
+   ]
+  }
+ },
+ "opus": {
+  "v2": {
+   "spearman": 0.308,
+   "spearman_ci": [
+    0.06,
+    0.53
+   ],
+   "pairwise": 0.599,
+   "pairwise_ci": [
+    0.51,
+    0.69
+   ],
+   "share_5": 0.76,
+   "awkward_recall": 0.31
+  },
+  "v3_min": {
+   "spearman": 0.349,
+   "spearman_ci": [
+    0.11,
+    0.55
+   ],
+   "pairwise": 0.625,
+   "pairwise_ci": [
+    0.53,
+    0.71
+   ],
+   "share_5": 0.71,
+   "awkward_recall": 0.36
+  },
+  "v3_mean": {
+   "spearman": 0.296,
+   "spearman_ci": [
+    0.04,
+    0.52
+   ],
+   "pairwise": 0.572,
+   "pairwise_ci": [
+    0.49,
+    0.64
+   ],
+   "share_5": 0.85,
+   "awkward_recall": 0.17
+  },
+  "v3_naturalness_only": {
+   "spearman": 0.369,
+   "spearman_ci": [
+    0.15,
+    0.55
+   ],
+   "pairwise": 0.638,
+   "pairwise_ci": [
+    0.55,
+    0.71
+   ],
+   "share_5": 0.74,
+   "awkward_recall": 0.36
+  },
+  "delta_v3min_minus_v2": {
+   "spearman": [
+    -0.059,
+    0.166
+   ],
+   "pairwise": [
+    -0.019,
+    0.076
+   ]
+  }
+ },
+ "human": {
+  "share_5": 0.47,
+  "awkward_items": 36
+ }
+}

@@ -1,0 +1,878 @@
+{
+ "balloon_dream-033-0": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-033-1": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-033-2": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-033-3": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 1,
+   "tags": [
+    "말투"
+   ]
+  }
+ },
+ "balloon_dream-033-4": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-033-5": {
+  "A": {
+   "meaning": 4,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-0": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-1": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-2": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 3,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-3": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-4": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-030-5": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 4,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": [
+    "오역"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "rasetugari-007-0": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 2,
+   "naturalness": 4,
+   "tone": 1,
+   "tags": [
+    "오역",
+    "말투"
+   ]
+  },
+  "C": {
+   "meaning": 2,
+   "naturalness": 4,
+   "tone": 1,
+   "tags": [
+    "오역",
+    "말투"
+   ]
+  }
+ },
+ "rasetugari-007-1": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 2,
+   "naturalness": 3,
+   "tone": 1,
+   "tags": [
+    "오역",
+    "말투"
+   ]
+  },
+  "C": {
+   "meaning": 2,
+   "naturalness": 3,
+   "tone": 1,
+   "tags": [
+    "오역",
+    "말투"
+   ]
+  }
+ },
+ "rasetugari-007-2": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "rasetugari-007-3": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "rasetugari-007-4": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-0": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 3,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 4,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": [
+    "누락"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 3,
+   "tone": 5,
+   "tags": [
+    "어색함",
+    "길이"
+   ]
+  }
+ },
+ "tencho_isoro-031-1": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 3,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 3,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-2": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-3": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-4": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "tencho_isoro-031-5": {
+  "A": {
+   "meaning": 4,
+   "naturalness": 2,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 3,
+   "naturalness": 2,
+   "tone": 5,
+   "tags": [
+    "오역",
+    "어색함"
+   ]
+  }
+ },
+ "tojime_no_siora-029-0": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "tojime_no_siora-029-1": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "tojime_no_siora-029-2": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "tojime_no_siora-029-3": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "tojime_no_siora-029-4": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "tojime_no_siora-029-5": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 4,
+   "tags": [
+    "말투"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-025-0": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "balloon_dream-025-1": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-025-2": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 4,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "C": {
+   "meaning": 4,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "balloon_dream-025-3": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "balloon_dream-025-4": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 2,
+   "tone": 5,
+   "tags": [
+    "어색함"
+   ]
+  }
+ },
+ "boureisougi-033-0": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-1": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 4,
+   "tags": [
+    "말투"
+   ]
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-2": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-3": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-4": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  }
+ },
+ "boureisougi-033-5": {
+  "A": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "B": {
+   "meaning": 5,
+   "naturalness": 5,
+   "tone": 5,
+   "tags": []
+  },
+  "C": {
+   "meaning": 5,
+   "naturalness": 4,
+   "tone": 3,
+   "tags": [
+    "말투"
+   ]
+  }
+ }
+}
